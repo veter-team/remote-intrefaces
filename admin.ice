@@ -1,7 +1,6 @@
-/* Copyright (c) 2012 Andrey Nechypurenko
-   See the file LICENSE for copying permission. 
+/* Copyright (c) 2013 Andrey Nechypurenko
+   See the file COPYING for copying permission.
 */
-
 #ifndef __ADMIN_ICE
 #define __ADMIN_ICE
 
